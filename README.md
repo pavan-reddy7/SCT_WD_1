@@ -70,9 +70,10 @@ project-folder/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   ├──images
-│
+├── screenshots/
+│   ├──screenshots
+├──images/
+    ├──car_images
 └── README.md
 ```
 
